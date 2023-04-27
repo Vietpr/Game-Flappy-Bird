@@ -14,6 +14,6 @@ flappy_bird.py: This is the main file containing the source code for the game.
 README.md: A file containing information about the game and instructions for playing it.
 
 # Requirements:  
-+ Python version 3.7\n
-+ Pygame library version 2.0.1\n
++ Python version 3.7
++ Pygame library version 2.0.1
 + Random library
