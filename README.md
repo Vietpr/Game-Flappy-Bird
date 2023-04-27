@@ -10,8 +10,8 @@ Flappy Bird is a popular 2D side-scrolling game developed by Vietnamese game dev
 Is to navigate a player-controlled bird through a series of pipes without colliding with them. The bird automatically moves forward and the player can make it fly upwards by pressing the spacebar. The game is over if the bird hits the pipe or falls to the ground.
 
 # Files included:
-flappy_bird.py: This is the main file containing the source code for the game.
-README.md: A file containing information about the game and instructions for playing it.
++ flappy_bird.py: This is the main file containing the source code for the game.
++ README.md: A file containing information about the game and instructions for playing it.
 
 # Requirements:  
 + Python version 3.7
